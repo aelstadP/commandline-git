@@ -1,0 +1,6 @@
+pull
+add
+commit
+push
+
+This is the order of commands in cli for git
