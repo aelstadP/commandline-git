@@ -1,4 +1,11 @@
 cd
 rmdir
+rm -r
 mkdir
+mkdir -p
 ls
+rm
+man
+less
+cat
+
